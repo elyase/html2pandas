@@ -14,3 +14,7 @@ convert(df.to_html(), float)
 pyquery
 numpy
 pandas
+
+## Update:
+
+Since version 0.12 pandas has the function [read_html] (http://pandas.pydata.org/pandas-docs/stable/generated/pandas.io.html.read_html.html?highlight=read_html#pandas.io.html.read_html).
